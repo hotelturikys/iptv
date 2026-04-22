@@ -1,39 +1,36 @@
 #EXTM3U
 
 ########################
-# 🇵🇪 CANALES CLAVE (WEB OFICIAL)
+# 🇵🇪 PERÚ – PRINCIPALES ESTABLES
 ########################
 
-#EXTINF:-1 group-title="Perú (Web)",América TV (Oficial)
-https://www.americatv.com.pe/envivo
-
-#EXTINF:-1 group-title="Perú (Web)",Latina (Oficial)
-https://www.latina.pe/tvenvivo
-
-#EXTINF:-1 group-title="Perú (Web)",Willax TV (Oficial)
-https://willax.pe/envivo/
-
-#EXTINF:-1 group-title="Perú (Web)",Panamericana TV (Oficial)
-https://panamericana.pe/tvenvivo
-
-########################
-# 🇵🇪 IPTV ESTABLE
-########################
-
-#EXTINF:-1 tvg-name="TV Perú" group-title="Perú",TV Perú
+#EXTINF:-1 tvg-name="TV Perú HD" group-title="Perú",TV Perú HD
 https://cdnh4.iblups.com/hls/ptv.m3u8
 
 #EXTINF:-1 tvg-name="TV Perú Noticias" group-title="Perú",TV Perú Noticias
 https://cdnh4.iblups.com/hls/ptvnoticias.m3u8
 
-#EXTINF:-1 tvg-name="ATV" group-title="Perú",ATV
+#EXTINF:-1 tvg-name="ATV HD" group-title="Perú",ATV HD
 https://mdstrm.com/live-stream-playlist/5d9d8d1e6f6c7c4a0aefea4d.m3u8
 
 #EXTINF:-1 tvg-name="Global TV" group-title="Perú",Global TV
 https://tvdatta.com:3383/live/globaltv/playlist.m3u8
 
 ########################
-# 🌎 INTERNACIONALES EN ESPAÑOL
+# 🇵🇪 PERÚ – COMPLEMENTARIOS
+########################
+
+#EXTINF:-1 tvg-name="TV Cosmos" group-title="Perú",TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Top Latino TV" group-title="Perú",Top Latino TV
+https://panel.streamingtv-mediacp.online:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bethel TV" group-title="Perú",Bethel TV
+https://panel.streamingtv-mediacp.online:1936/8074/8074/playlist.m3u8
+
+########################
+# 🌎 INTERNACIONALES EN ESPAÑOL (IMPORTANTES)
 ########################
 
 #EXTINF:-1 group-title="Noticias",RTVE 24H
@@ -46,8 +43,11 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 ########################
-# 🎵 RELAX (HOTEL)
+# 🎵 RELAX / AMBIENTE (CLAVE PARA TU HOTEL)
 ########################
 
 #EXTINF:-1 group-title="Relax",Música Relax
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="Ciencia",NASA TV
+https://ntv1.akamaized.net/hls/live/2038315/NASA-TV-Public/master.m3u8

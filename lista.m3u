@@ -1,0 +1,53 @@
+#EXTM3U
+
+########################
+# 🇵🇪 CANALES CLAVE (WEB OFICIAL)
+########################
+
+#EXTINF:-1 group-title="Perú (Web)",América TV (Oficial)
+https://www.americatv.com.pe/envivo
+
+#EXTINF:-1 group-title="Perú (Web)",Latina (Oficial)
+https://www.latina.pe/tvenvivo
+
+#EXTINF:-1 group-title="Perú (Web)",Willax TV (Oficial)
+https://willax.pe/envivo/
+
+#EXTINF:-1 group-title="Perú (Web)",Panamericana TV (Oficial)
+https://panamericana.pe/tvenvivo
+
+########################
+# 🇵🇪 IPTV ESTABLE
+########################
+
+#EXTINF:-1 tvg-name="TV Perú" group-title="Perú",TV Perú
+https://cdnh4.iblups.com/hls/ptv.m3u8
+
+#EXTINF:-1 tvg-name="TV Perú Noticias" group-title="Perú",TV Perú Noticias
+https://cdnh4.iblups.com/hls/ptvnoticias.m3u8
+
+#EXTINF:-1 tvg-name="ATV" group-title="Perú",ATV
+https://mdstrm.com/live-stream-playlist/5d9d8d1e6f6c7c4a0aefea4d.m3u8
+
+#EXTINF:-1 tvg-name="Global TV" group-title="Perú",Global TV
+https://tvdatta.com:3383/live/globaltv/playlist.m3u8
+
+########################
+# 🌎 INTERNACIONALES EN ESPAÑOL
+########################
+
+#EXTINF:-1 group-title="Noticias",RTVE 24H
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 group-title="Noticias",France 24 Español
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="Noticias",DW Español
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+########################
+# 🎵 RELAX (HOTEL)
+########################
+
+#EXTINF:-1 group-title="Relax",Música Relax
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8

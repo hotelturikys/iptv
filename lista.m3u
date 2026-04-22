@@ -1,19 +1,13 @@
 #EXTM3U
-
-#EXTINF:-1,TV Perú
-https://cdnh4.iblups.com/hls/ptv.m3u8
-
-#EXTINF:-1,TV Perú Noticias
-https://cdnh4.iblups.com/hls/ptvnoticias.m3u8
-
-#EXTINF:-1,DW Español
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-
-#EXTINF:-1,France 24 Español
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-
-#EXTINF:-1,RTVE 24H
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1,NASA TV
-https://ntv1.akamaized.net/hls/live/2038315/NASA-TV-Public/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.latina.pe/favicon.ico" group-title="PERU", Latina TV
+https://www.latina.pe/tvenvivo
+#EXTINF:-1 tvg-logo="https://tvgo.americatv.com.pe/favicon.ico" group-title="PERU", America TV
+https://tvgo.americatv.com.pe/
+#EXTINF:-1 tvg-logo="https://panamericana.pe/favicon.ico" group-title="PERU", Panamericana
+https://panamericana.pe/tvenvivo
+#EXTINF:-1 group-title="PERU", TV Peru
+https://www.tvperu.gob.pe/play
+#EXTINF:-1 group-title="PERU", ATV
+https://www.atv.pe/envivo-atv
+#EXTINF:-1 group-title="INTERNACIONAL", France 24
+https://www.france24.com/es/en-vivo

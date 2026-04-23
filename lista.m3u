@@ -1,13 +1,7 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.latina.pe/favicon.ico" group-title="PERU", Latina TV
-https://www.latina.pe/tvenvivo
-#EXTINF:-1 tvg-logo="https://tvgo.americatv.com.pe/favicon.ico" group-title="PERU", America TV
-https://tvgo.americatv.com.pe/
-#EXTINF:-1 tvg-logo="https://panamericana.pe/favicon.ico" group-title="PERU", Panamericana
-https://panamericana.pe/tvenvivo
-#EXTINF:-1 group-title="PERU", TV Peru
-https://www.tvperu.gob.pe/play
-#EXTINF:-1 group-title="PERU", ATV
-https://www.atv.pe/envivo-atv
-#EXTINF:-1 group-title="INTERNACIONAL", France 24
-https://www.france24.com/es/en-vivo
+#EXTM3U x-tvg-url="" refresh="600"
+; ─────────────────────────────────────────────────────────────
+;  📡  ENLACES ALTERNATIVOS (iptv-org - públicos y verificados)
+; ─────────────────────────────────────────────────────────────
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perú (iptv-org)" tvg-logo="https://i.imgur.com/tvperu.png" group-title="🇵🇪 Perú",TV Perú (iptv-org)
+https://iptv-org.github.io/iptv/countries/pe.m3u
